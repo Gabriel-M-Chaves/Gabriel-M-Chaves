@@ -8,7 +8,7 @@
 - Programação Orientada a Objetos
 
 ## 🛠️ Habilidades
-- **Linguagens**: C/C++ e Kotlin
+- **Linguagens**: C e Kotlin
 - **Ferramentas**: IntelliJ, Android Studio e Visual Studio
 
 ## 👨‍🏫 Quero aprender
