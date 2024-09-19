@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá! 👋 Me chamo Gabriel Chaves
 
-<!--
-**Gabriel-M-Chaves/Gabriel-M-Chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
 
-Here are some ideas to get you started:
+## 🌱 Estou aprendendo...
+- Lógica de Programação
+- Kotlin para desenvolvimento Android
+- Programação Orientada a Objetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+- **Linguagens**: C/C++ e Kotlin
+- **Ferramentas**: IntelliJ, Android Studio e Visual Studio
+
+## 👨‍🏫 Quero aprender
+- Algoritmos e estrutura de dados
+- Python
+- Machine Learning
+
+## 📫 Contato
+E-mail: gabriel.chaves07@aluno.ifce.edu.br
