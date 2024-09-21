@@ -9,7 +9,7 @@
 
 ## 🛠️ Habilidades
 - **Linguagens**: C e Kotlin
-- **Ferramentas**: IntelliJ, Android Studio e Visual Studio
+- **Ferramentas**: IntelliJ, Android Studio e VS Code
 
 ## 👨‍🏫 Quero aprender
 - Algoritmos e estrutura de dados
