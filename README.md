@@ -1,20 +1,9 @@
 ## Olá! 👋 Me chamo Gabriel Chaves
 
 - 📚 Sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
+e programador iniciante
 
-## 🌱 Estou aprendendo...
-- Lógica de Programação
-- Kotlin para desenvolvimento Android
-- Programação Orientada a Objetos
-
-## 🛠️ Habilidades
-- **Linguagens**: C e Kotlin
-- **Ferramentas**: IntelliJ, Android Studio e VS Code
-
-## 👨‍🏫 Quero aprender
-- Algoritmos e estrutura de dados
-- Python
-- Machine Learning
+- 💻 Estou aprendendo as linguagens C e C#, bem como iniciando meus estudos na plataforma .NET
 
 ## 📫 Contato
 E-mail: gabriel.chaves07@aluno.ifce.edu.br
